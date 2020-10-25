@@ -1,0 +1,2 @@
+# music-genre-classification
+#This Google Collab is meant to house the code for DMW-Mini-Project. #The project deals with classifying the songs into respective genres. #The datasets that can be used include Spotify, Gaana, Wynk, Shazam, Saavn, etc. #Yet another audio dataset that can be used is GTZAN dataset.  #The dataset will be trained on some of the state-of-the-art classification algorithms like, #SVM, Logistic Regression, CNN, Decision tree etc.  #The best algorithm choice will be made, after proper examination of results, accuracy and other deciding factors
